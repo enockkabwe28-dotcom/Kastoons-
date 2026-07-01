@@ -1,0 +1,6 @@
+{
+  "name": "Kastoons",
+  "description": "An advanced AI-powered mobile and web anime studio to generate storylines, screenplays, character voices, backgrounds, and full-length anime episodes from text prompts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
